@@ -37,6 +37,6 @@
 
 ## Usage
 
-To start the analysis and access the interactive dashboard:
+To start the analysis and access the interactive dashboard on your browser:
 ```bash
 python main.py
